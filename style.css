@@ -477,7 +477,7 @@ footer {
 .dropdown-content {
   max-height: 0;
   overflow: hidden;
-  background: #1e1e2f99;
+  background: #1e1e2fea;
   color: #ddd;
   padding: 0 1rem;
   transition: max-height 0.4s ease, padding 0.3s ease;
