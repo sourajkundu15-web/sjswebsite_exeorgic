@@ -495,7 +495,7 @@ footer {
 
 .dropdown-btn {
   width: 100%;
-  background: #5a06d0e1;
+  background: #5a06d0c9;
   color: #fff;
   font-size: 1.1rem;
   font-weight: 600;
@@ -513,7 +513,7 @@ footer {
 }
 
 .dropdown-btn:hover {
-  background: #5a06d0a6;
+  background: #3506d0e5;
 }
 
 .dropdown-btn .arrow {
